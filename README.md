@@ -3,11 +3,9 @@
 好的博客学习
 
 #### iOS相关
-* []() https://store.objccn.io/
 * []() http://www.codertomwu.com
 * []() http://blog.mrriddler.com
 * []() http://www.blogfshare.com
-* []() https://ming1016.github.io
 * []() http://www.jianshu.com/u/8d5b91490ca5
 * []() https://github.com/shu223
 * []() https://github.com/nicklockwood
@@ -17,38 +15,45 @@
 * []() https://blog.nswebfrog.com/2013/10/22/add-member-to-category/
 * []() http://www.jianshu.com/u/14431e509ae8
 * []() http://www.jianshu.com/u/12201cdd5d7a
-* []() https://github.com/bang590
 * []() http://www.jianshu.com/u/3e55748920d2 
 * []() http://wereadteam.github.io
 * []() http://www.jianshu.com/u/211925b3ca7c
-* []() http://tech.glowing.com/cn/
 * []() https://daiweilai.github.io
-* []() http://limboy.me/tech/2016/07/06/starting-an-app.html
 * []() https://github.com/allenwong/30DaysofSwift
 * []() http://www.devtalking.com/articles/calayer-animation-replicator-animation/
 * []() https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/
-* []() https://useyourloaf.com/blog/
-* []() http://swift.gg/
 * []() https://github.com/MengTo/Spring/
 * []() https://github.com/seedante/iOS-ViewController-Transition-Demo
 * []() https://github.com/Ramotion
-* []() http://blog.sunnyxx.com/
 * []() http://beyondvincent.com/
 * []() https://github.com/ipader/SwiftGuide/blob/master/Featured-Articles.md
 * []() http://swifter.tips
 * []() https://github.com/100mango/zen/blob/master/
 * []() https://github.com/numbbbbb
 * []() http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/
-* []() http://yulingtianxia.com/blog/
-* []() https://tech.meituan.com/DiveIntoCategory.html
+* []() http://www.saitjr.com
+
+#### 进阶blog
+* []() http://limboy.me/
 * []() https://github.com/oa414/objc-zen-book-cn
+* []() https://tech.meituan.com/DiveIntoCategory.html
+* []() http://yulingtianxia.com/blog/
+* []() http://blog.sunnyxx.com/
+* []() https://useyourloaf.com/blog/
+* []() http://swift.gg/
+* []() https://store.objccn.io/
+*  NSHipster
+*  objc中国
+* []() https://oleb.net/blog/
+* []() https://github.com/bang590
+* []() http://tech.glowing.com/cn/
+* []() https://ming1016.github.io
 
-
-#### 产品
+#### 产品转型
 * []() http://blog.zhowkev.in
 * []() https://siiimple.com
 
-#### 证书审核
+#### 签名机制 证书审核
 * []() https://github.com/leecade/ios-dev-flow
 
 #### JS与OC交互
@@ -56,8 +61,8 @@
 * []() http://blog.iderzheng.com/ios7-objects-management-in-javascriptcore-framework/
 * []() http://blog.csdn.net/u010124617/article/details/50053069#comments
 * []() http://www.jianshu.com/p/d19689e0ed83
-#### RN相关
 
+#### ReactNative相关
 * []() http://reactnative.cn/docs/0.47/getting-started.html
 * []() http://www.jianshu.com/p/978c4bd3a759
 * []() http://www.devio.org/2016/08/09/React-Native之React速学教程-(上)/
@@ -70,9 +75,7 @@
 * []() https://github.com/vinta/awesome-python
 * []() http://www.runoob.com/python3/python3-cgi-programming.html
 
-
 #### 机器学习相关
-
 * []() https://github.com/exacity/deeplearningbook-chinese
 * 吴恩达网易云课程
 
