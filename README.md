@@ -31,23 +31,27 @@
 * []() https://github.com/100mango/zen/blob/master/
 * []() https://github.com/numbbbbb
 * []() http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/
-* []() http://www.saitjr.com
+* []() 蓝牙相关http://www.saitjr.com
 
 #### 进阶blog
-* []() http://limboy.me/
-* []() https://github.com/oa414/objc-zen-book-cn
-* []() https://tech.meituan.com/DiveIntoCategory.html
-* []() http://yulingtianxia.com/blog/
-* []() http://blog.sunnyxx.com/
-* []() https://useyourloaf.com/blog/
-* []() http://swift.gg/
-* []() https://store.objccn.io/
 *  NSHipster
 *  objc中国
-* []() https://oleb.net/blog/
 * []() https://github.com/bang590
 * []() http://tech.glowing.com/cn/
 * []() https://ming1016.github.io
+* []() https://blog.ibireme.com/
+* []() http://blog.devtang.com
+* []() https://onevcat.com/#blog
+* []() http://blog.sunnyxx.com
+* []() http://yulingtianxia.com/blog/
+* []() http://limboy.me/
+* []() https://github.com/oa414/objc-zen-book-cn
+* []() https://tech.meituan.com/DiveIntoCategory.html
+* []() https://useyourloaf.com/blog/
+* []() http://swift.gg/
+* []() https://store.objccn.io/
+* []() https://oleb.net/blog/
+
 
 #### 产品转型
 * []() http://blog.zhowkev.in
