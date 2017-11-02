@@ -36,10 +36,11 @@
 #### 进阶blog
 *  NSHipster
 *  objc中国
-* []() https://github.com/bang590
+* []() https://casatwy.com   架构
+* []() https://github.com/bang590    
 * []() http://tech.glowing.com/cn/
 * []() https://ming1016.github.io
-* []() https://blog.ibireme.com/
+* []() https://blog.ibireme.com/   
 * []() http://blog.devtang.com
 * []() https://onevcat.com/#blog
 * []() http://blog.sunnyxx.com
