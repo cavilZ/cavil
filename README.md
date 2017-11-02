@@ -44,7 +44,7 @@
 * []() http://blog.devtang.com
 * []() https://onevcat.com/#blog
 * []() http://blog.sunnyxx.com
-* []() http://yulingtianxia.com/blog/
+* []() http://yulingtianxia.com
 * []() http://limboy.me/
 * []() https://github.com/oa414/objc-zen-book-cn
 * []() https://tech.meituan.com/DiveIntoCategory.html
