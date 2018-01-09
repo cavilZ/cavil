@@ -2,7 +2,14 @@
 ### 工作总结，个人开发心得或学习笔记
 好的博客学习
 
+#### 墙推汇总大杂烩
+* []() https://github.com/skyming/iOS-Performance-Optimization
+* []() https://github.com/aozhimin/awesome-iOS-resource#interview
+* []() https://github.com/conanwhf/ResourceDoc/blob/master/1.5debug.md
+
 #### iOS相关
+* []() https://baiduhidevios.github.io 百度周报
+* []() https://neyoufan.github.io  网易前端
 * []() http://www.codertomwu.com
 * []() http://blog.mrriddler.com
 * []() http://www.blogfshare.com
@@ -102,6 +109,12 @@ https://coolshell.cn/articles/11564.html
 
 #### 调试
 * []() https://objccn.io/issue-19-2/
+
+#### Log
+*  []() https://yohunl.com/page/2/#blog
+
+#### 性能监控
+* []() https://github.com/aozhimin/iOS-Monitor-Platform
 
 #### 面试
 * []() https://github.com/HIT-Alibaba/interview
